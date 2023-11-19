@@ -1,0 +1,14 @@
+# general
+*.o
+.vscode
+
+# HW1
+/HW1/shell
+/HW1/in.txt
+/HW1/out.txt
+
+# HW2
+/HW2/httpserver
+
+# HW3
+/HW3/malloc_test
